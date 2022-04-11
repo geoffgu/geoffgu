@@ -1,4 +1,9 @@
-### Hi there 👋
+## 𝗦𝘁𝗮𝘁𝘀
+
+<p align="left">
+<img alt="绯凡的 github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=geoffgu&show_icons=true&count_private=true&theme=react">
+<img alt="Top Languages" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgu&layout=compact&theme=react">
+</p>
 
 <!--
 **geoffgu/geoffgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
