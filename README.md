@@ -1,11 +1,10 @@
-## 𝗦𝘁𝗮𝘁𝘀
+🌱 I’m currently learning web 3d & rust...
+<!-- ## 𝗦𝘁𝗮𝘁𝘀
 
-<!-- <p align="left">
+<p align="left">
 <img alt="绯凡的 github stats" height='165' src="https://github-readme-stats.vercel.app/api?username=geoffgu&show_icons=true&count_private=true&theme=nord&include_all_commits=true">
 <img alt="Top Languages" height='165' src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffgu&layout=compact&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </p> -->
-
-🌱 I’m currently learning web 3d & rust...
 
 <!--
 **geoffgu/geoffgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
